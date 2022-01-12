@@ -10,8 +10,8 @@ I have the following features. Tap the button in which you want help."""
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>Annabelle:</b>
-- Annabelle is a open source project made by <a href=https://t.me/vaishnavgr8>Vaishnav</a>. 
-- Source - <a href= https://github.com/Vaishnavofficial/Annabelle>Click here </a>
+- Annabelle is a open source project made by <a href=https://t.me/ULTRONBOTS>ULTRON BOTS</a>. 
+- Source - <a href= https://github.com/OGGYMAMAN-TG/EvaMaria>Click here </a>
 <b>Support channel:</b>
 - <a href=https://t.me/Dianasupport>Team Diana</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
@@ -38,7 +38,7 @@ I have the following features. Tap the button in which you want help."""
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/Thugbots)</code>
+<code>[Button Text](buttonurl:https://t.me/ULTRONBOTS)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message from Annabelle)</code>"""
