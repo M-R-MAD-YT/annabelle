@@ -62,7 +62,7 @@ async def start(client, message):
         btn = [
             [
                 InlineKeyboardButton(
-                    ⌫ 𝙼𝚈 𝚄𝙱𝙳𝙰𝚃𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝙹𝙾𝙸𝙽 ", https://t.me/new_all_movies_club
+                    ♻️JOIN CHANNEL♻️", https://t.me/new_all_movies_club
                 )
             ]
         ]
